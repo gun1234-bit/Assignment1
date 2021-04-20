@@ -1,0 +1,27 @@
+h2
+{
+    color:red;
+    text-align: center;
+    border: bisque;
+
+}
+h1
+{
+    color: seagreen;
+    text-align: center;
+    border: seashell;
+    
+}
+body
+{
+    background-color: burlywood;
+
+}
+p{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+
+
+}
+<body>
+ 
